@@ -14,13 +14,14 @@ cd pinpoint/
 
 ### Create Virtual environment
 For Windows
-- ```bash
-  pip install veritualenv
-  virtualenv venv
-  ```
+```bash
+pip install veritualenv
+virtualenv venv
+```
 For Linux & Mac
-- ```bash
-  python3 -m venv venv
+```bash
+python3 -m venv venv
+```
 
 ### Install requirements
 ```bash
